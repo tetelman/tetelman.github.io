@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description>This blog is describing implementable ideas for Artificial Intelligence related projects in Computer Vision, Deep Learning and Machine Learning.</description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>How to compute stereo correspondence in real time with ten lines of code</title>
+        <description>
+</description>
+        <pubDate>Sat, 13 Apr 2019 09:01:55 -0700</pubDate>
+        <link>http://localhost:4000//2019/04/13/How-To-Compute-Stereo-Correspondence.html</link>
+        <guid isPermaLink="true">http://localhost:4000//2019/04/13/How-To-Compute-Stereo-Correspondence.html</guid>
+      </item>
+    
+      <item>
+        <title>How to run your neural network on CPU with speed of GPU</title>
+        <description>
+</description>
+        <pubDate>Sat, 13 Apr 2019 08:01:55 -0700</pubDate>
+        <link>http://localhost:4000//2019/04/13/How-To-Run-NN-On-CPU-With-Speed-Of-GPU.html</link>
+        <guid isPermaLink="true">http://localhost:4000//2019/04/13/How-To-Run-NN-On-CPU-With-Speed-Of-GPU.html</guid>
+      </item>
+    
+  </channel>
+</rss>
